@@ -3,6 +3,10 @@
   "version": "2.0.0",
   "private": true,
   "dependencies": {
-    "@vercel/blob": "latest"
+    "@vercel/blob": "2.6.1"
+  },
+  "type": "module",
+  "engines": {
+    "node": "22.x"
   }
 }
