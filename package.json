@@ -1,0 +1,19 @@
+{
+  "name": "gramseba-investor-vercel",
+  "version": "3.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@vercel/blob": "2.6.1",
+    "next": "15.5.26",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
